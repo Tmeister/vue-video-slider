@@ -16,11 +16,18 @@ export default {
 };
 </script>
 
-<style lang="scss" scope>
+<style lang="scss">
 .single-video {
   max-width: 250px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+  background-color: black;
+  display: flex;
+  margin-bottom: 20px;
   .placeholder {
     max-width: 100%;
+    border-radius: 5px;
+    opacity: 0.6;
   }
 }
 </style>
