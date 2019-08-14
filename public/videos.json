@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "url": "./vids/saulo-tip-1.mp4",
+    "placeholder": "./images/saulo-tip-1.webp",
+    "title": "Saulo Tip #1"
+  },
+  {
+    "id": 2,
+    "url": "./vids/saulo-tip-2.mp4",
+    "placeholder": "./images/saulo-tip-2.webp",
+    "title": "Saulo Tip #2"
+  },
+  {
+    "id": 3,
+    "url": "./vids/saulo-tip-3.mp4",
+    "placeholder": "./images/saulo-tip-3.webp",
+    "title": "Saulo Tip #3"
+  }
+]
